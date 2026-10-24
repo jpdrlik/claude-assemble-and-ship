@@ -1,0 +1,6 @@
+{
+  "name": "qa-kit",
+  "version": "0.1.0",
+  "description": "Small review kit: summarise a branch's changes and review recent code for bugs.",
+  "author": { "name": "jpdrlik" }
+}
